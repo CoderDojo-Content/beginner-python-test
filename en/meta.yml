@@ -1,8 +1,8 @@
 title: beginner-python-test
 hero_image: images/banner.png
-description: beginner-python-test description
+description: Write your first Python code and make a guessing game
 theme: cd-green # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+duration: 2 # possible values: 1, 2 or 3
 listed: true
 ingredient: false
 copyedit: false
